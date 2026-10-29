@@ -1,0 +1,6 @@
+{
+  "name": "JSON Chapter Translator & Hierarchy Preserver",
+  "description": "Translate multi-chapter JSON folders from English or Arabic to Tamil, Malayalam, or any language while strictly preserving exact keys, hierarchies, and schema format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
